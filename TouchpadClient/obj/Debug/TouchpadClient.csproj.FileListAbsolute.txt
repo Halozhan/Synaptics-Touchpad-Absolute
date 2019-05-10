@@ -20,3 +20,5 @@ C:\Google_Drive\Desktop\정리함\TouchpadClient\TouchpadClient\obj\Debug\Touchp
 C:\Google_Drive\Desktop\정리함\TouchpadClient\TouchpadClient\obj\Debug\TouchpadClient.csproj.CoreCompileInputs.cache
 C:\Google_Drive\Desktop\정리함\TouchpadClient\TouchpadClient\obj\Debug\TouchpadClient.exe
 C:\Google_Drive\Desktop\정리함\TouchpadClient\TouchpadClient\obj\Debug\TouchpadClient.pdb
+C:\Users\Juwon\Desktop\Synaptics-Touchpad-Absolute\TouchpadClient\obj\Debug\TouchpadClient.exe
+C:\Users\Juwon\Desktop\Synaptics-Touchpad-Absolute\TouchpadClient\obj\Debug\TouchpadClient.pdb

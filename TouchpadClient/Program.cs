@@ -21,8 +21,8 @@ namespace TouchpadClient
         static public int x = 0;
         static public int y = 0;
         //static public float Xmin = 1400, Xmax = 5500, Ymin = 1300, Ymax = 4400;
-        static public float Xmin = 2800, Xmax = 5700, Ymin = 1850, Ymax = 4500;
-        static public float targetx = 960, targety = 540;
+        static public float Xmin = 2800, Xmax = 5700, Ymin = 1850, Ymax = 4500; // Touchpad's Absolute Point
+        static public float targetx = 960, targety = 540; // Center of FHD Resolution
 
         static void Main(string[] args)
         {
